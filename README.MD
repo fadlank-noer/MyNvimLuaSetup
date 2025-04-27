@@ -8,8 +8,7 @@
 - `:q` => Quit Neovim
 - `<lead>FB` => File Browser
 - `<lead>FG` => File Grep
-- `*` => Search Current Word
-- `CIW` => Change Word after search current word (n for next, N for before)
+- `*` => Search Current Word --> `ciw` => Change Word after search current word (n for next, N for before) --> `.` For Replay Macro Changes
 - `:%s/Lama/Baru/g` => Search Occurences in File (change from "Lama" to "Baru" globally) --> add c for confirmation
 
 #### Visual Mode (v)
