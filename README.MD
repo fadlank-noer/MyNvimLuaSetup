@@ -1,4 +1,4 @@
-# Kickstarter + Additional Telescope Setup for NeoVIM
+# Modular Setup for NeoVIM (Windows Only)
 
 ### Note for Installation
 - Install "ripgrep" first before continue installing
@@ -6,8 +6,9 @@
 ### Hotkeys
 
 - `:q` => Quit Neovim
-- `<lead>FB` => File Browser
-- `<lead>FG` => File Grep
+- `<space>FF` => Find Files
+- `<space>FG` => File Grep
+- `<space><space>` => Recent File
 - `*` => Search Current Word --> `ciw` => Change Word after search current word (n for next, N for before) --> `.` For Replay Macro Changes
 - `:%s/Lama/Baru/g` => Search Occurences in File (change from "Lama" to "Baru" globally) --> add c for confirmation
 
